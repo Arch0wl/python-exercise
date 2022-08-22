@@ -1,4 +1,4 @@
-# cLpzgpSy
+# python-exercise
 
 ## About Scrimba
 
